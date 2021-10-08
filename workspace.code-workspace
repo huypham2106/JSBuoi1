@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Team"
+		},
+		{
+			"path": "../demoJSbuoi2"
+		},
+		{
+			"path": "../demoJS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS_Buoi1"
+	}
+}
